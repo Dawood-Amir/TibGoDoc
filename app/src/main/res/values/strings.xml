@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TibGo Doc</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="log_out">Log out</string>
+    <string name="phone_number">Phone#</string>
+    <string name="phone">Phone#</string>
+    <string name="clinic_address">Clinic Address</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="charge_per_visit">Charges per visit</string>
+    <string name="specialist_in">Specialized in</string>
+    <string name="are_you_specialist">Are you specialist?</string>
+</resources>

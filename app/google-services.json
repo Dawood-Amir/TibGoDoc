@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451118705172",
+    "firebase_url": "https://tib-go.firebaseio.com",
+    "project_id": "tib-go",
+    "storage_bucket": "tib-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451118705172:android:c144d96e93ddbaa091d501",
+        "android_client_info": {
+          "package_name": "com.dawoodamir.crudkotlinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451118705172-brj0i2gmu0cmagup25es61ccq46a0kih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwYvPDgR_Jd-3Jdt1FC4pMS79eknpxfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451118705172-brj0i2gmu0cmagup25es61ccq46a0kih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451118705172:android:fb1e0de74e04f1c491d501",
+        "android_client_info": {
+          "package_name": "com.dawoodamir.tibgodoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451118705172-brj0i2gmu0cmagup25es61ccq46a0kih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwYvPDgR_Jd-3Jdt1FC4pMS79eknpxfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451118705172-brj0i2gmu0cmagup25es61ccq46a0kih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
